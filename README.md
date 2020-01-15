@@ -16,12 +16,12 @@ Following version of hologram viewer application are avairable on Android device
 ## Hologram Capture
 This application captures RGB and Depth image from <b>Kinect V1</b> and generates RGB-D merged image to send YouTube.<br>
 You can use normal version or middle resolution version. (Please note the middle resolution version is not stable so far)<br>
-To broadcast hologram, Kinect SDK1.8, Processing 2.2.1, SimpleOpenNI1.96, OBS Studio and your own YouTube account are also necessary.<br>
+To broadcast hologram, Kinect SDK1.8, Processing 2.2.1, SimpleOpenNI1.96, OBS Studio and your own YouTube account are also necessary.<br><br>
 <b>KinectSDK 1.8:</b> https://www.microsoft.com/en-us/download/details.aspx?id=40278  <br>
-Notice: Kinect SDK is required for only Windows user.<br>
-<b>Processing:</b> https://processing.org/download/  <br>
-<b>SimpleOpenNI 1.96:</b> https://code.google.com/archive/p/simple-openni/ <br>
-<b>OBS Studio:</b> https://obsproject.com/ja/download  <br>
+Notice: Kinect SDK is required for only Windows user.<br><br>
+<b>Processing:</b> https://processing.org/download/  <br><br>
+<b>SimpleOpenNI 1.96:</b> https://code.google.com/archive/p/simple-openni/ <br><br>
+<b>OBS Studio:</b> https://obsproject.com/ja/download  <br><br>
 <b>YouTube:</b> https://www.youtube.com/  <br><br>
 
 # How to Live Streaming with Capture Application
