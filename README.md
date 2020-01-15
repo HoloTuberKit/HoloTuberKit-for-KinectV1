@@ -14,7 +14,7 @@ Following version of hologram viewer application are avairable on Android device
 ・ARCore <br><br>
 
 ## Hologram Capture
-This application captures RGB and Depth image from <b>Kinect V1</b> and generates RGB-D merged image to send YouTube.<br>
+This application is provided as the project of processing. This can capture RGB and Depth image from <b>Kinect V1</b> and generates RGB-D merged image to send YouTube.<br>
 To broadcast hologram, Kinect SDK1.8, Processing 2.2.1, SimpleOpenNI1.96, OBS Studio and your own YouTube account are also necessary.<br><br>
 <b>KinectSDK 1.8:</b> https://www.microsoft.com/en-us/download/details.aspx?id=40278  <br>
 Notice: Kinect SDK is required for only Windows user.<br><br>
