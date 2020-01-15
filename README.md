@@ -18,7 +18,7 @@ This application is provided as the project of processing. This can capture RGB 
 To broadcast hologram, Kinect SDK1.8, Processing 2.2.1, SimpleOpenNI1.96, OBS Studio and your own YouTube account are also necessary.<br><br>
 <b>KinectSDK 1.8:</b> https://www.microsoft.com/en-us/download/details.aspx?id=40278  <br>
 Notice: Kinect SDK is required for only Windows user.<br><br>
-<b>Processing:</b> https://processing.org/download/  <br><br>
+<b>Processing 2.2.1:</b> https://processing.org/download/  <br><br>
 <b>SimpleOpenNI 1.96:</b> https://code.google.com/archive/p/simple-openni/ <br><br>
 <b>OBS Studio:</b> https://obsproject.com/ja/download  <br><br>
 <b>YouTube:</b> https://www.youtube.com/  <br><br>
