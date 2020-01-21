@@ -4,8 +4,12 @@
 This is a simple volumetric video capture &amp; AR visualization kit. Real-time 3D image is reconstructed from RGB-D images wihch are broadcasted via YouTube.<br><br>
 [![](https://img.youtube.com/vi/IeaHt6bBw1o/0.jpg)](https://www.youtube.com/watch?v=IeaHt6bBw1o)
 <br><br>
-If you'd like to try HoloTuber Kit with Azure Kinect. Please see following repository.<br>
+If you'd like to try HoloTuber Kit with other version of Kinect, please see following repositories.<br><br>
+<b>For Kinect Azure Kinect: </b><br>
 https://github.com/TakashiYoshinaga/HoloTuberKit-for-AzureKinect
+<br>
+<b>For Kinect Kinect V2: </b><br>
+https://github.com/TakashiYoshinaga/HoloTuberKit-for-KinectV2
 <br><br>
 
 # Files Included
