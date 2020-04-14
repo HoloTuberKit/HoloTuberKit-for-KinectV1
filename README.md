@@ -31,7 +31,7 @@ Notice: Kinect SDK is required for only Windows user.<br><br>
 # How to Live Streaming with Capture Application
 ## Sending Hologram (PC -> YouTube)
 0) Set display scale to 100% in display setting of Windows.<br>
-1) Download and unzip  <b>AzureKinectCapture.zip</b> <br>
+1) Download and unzip  <b>HoloTuberKit.zip</b> <br>
 2) Install SimpleOpenNI (ver. 1.96) into processing<br>
 3) Connect a Kinect V1 with a PC.<br>
 4) Launch application from Processing.<br>
